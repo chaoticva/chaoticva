@@ -9,9 +9,13 @@
 
 ###
 
-<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="250" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
